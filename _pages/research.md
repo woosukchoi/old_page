@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: false
+---
 <style>
     .paragraph-divider {
         border-bottom: 1px solid #d1d5da; /* Light grey color */
@@ -5,12 +11,6 @@
     }
 </style>
 
----
-layout: archive
-title: "Research"
-permalink: /research/
-author_profile: false
----
 ## Working Paper
 - [__Risk Preference, Occupation Choice, and Earnings Dynamics__](/files/Paper_Woosuk_Risk_Preference.pdf) _(Job Market Paper)_
   <details open>
