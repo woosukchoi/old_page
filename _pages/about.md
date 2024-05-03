@@ -20,10 +20,6 @@ I am a Ph.D. candidate in Economics on the University of Rochester. My research 
   </div>
   <div style="flex: 1;">
     <h2></h2>
-    <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul>
+
   </div>
 </div>
