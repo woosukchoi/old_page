@@ -12,11 +12,18 @@ I am a Ph.D. candidate in Economics on the University of Rochester. My research 
 <div style="display: flex;">
   <div style="flex: 1;">
     <h2>Research Interests</h2>
-    - Labor Economics
-    - Personnel Economics
-    - Applied Microeconometrics
+    <ul>
+      <li>Labor Economics</li>
+      <li>Personnel Economics</li>
+      <li>Applied Microecnomics</li>
+    </ul>
   </div>
   <div style="flex: 1;">
     <h2>Reference</h2>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
   </div>
 </div>
