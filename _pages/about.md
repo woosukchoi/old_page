@@ -6,14 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+# About
 I am a Ph.D. candidate in Economics on the University of Rochester. My research interests are in labor economics, personnel economics, and applied microeconometrics. My job market paper focuses on the role of risk preference in occupation choices and resulting earnings dynamics.
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    Left side content goes here
+    ### Research Interests
+    - Labor Economics
+    - Personnel Economics
+    - Applied Microeconometrics
   </div>
   <div style="flex: 1;">
-    Right side content goes here
+    Reference
   </div>
 </div>
