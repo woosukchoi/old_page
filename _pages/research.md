@@ -19,6 +19,6 @@ author_profile: false
   </details>
 
 ## Work in Progress
-- Task-specific Employer Learnings <br>
+- Task-specific Employer Learnings <br>  
 
 - Labor Market Regulation and Technology Adoption: Evidence from Californian Nurse Staffing Regulation
