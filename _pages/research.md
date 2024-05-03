@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: false
 ---
-
 ## Working Paper
 - [__Risk Preference, Occupation Choice, and Earnings Dynamics__](/files/Paper_Woosuk_Risk_Preference.pdf) 
   <details open>
