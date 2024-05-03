@@ -4,13 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: false
 ---
-<style>
-    .paragraph-divider {
-        border-bottom: 1px solid #d1d5da; /* Light grey color */
-        margin-bottom: 20px; /* Adjust margin as needed */
-    }
-</style>
-
 ## Working Paper
 - [__Risk Preference, Occupation Choice, and Earnings Dynamics__](/files/Paper_Woosuk_Risk_Preference.pdf) _(Job Market Paper)_
   <details open>
@@ -25,7 +18,7 @@ author_profile: false
     In this paper we estimate major specific earnings profiles using matched American Community Survey (ACS) and Longitudinal Employer-Household Dynamics (LEHD) data. The advantage of the matched data relative to the ACS alone is that it provides a long panel of worker earnings, thus avoiding estimating life cycle profiles using cross- cohort variation. Once we allow the returns to major to vary by cohort, we find that engineering, computer science, and business majors experience faster earnings growth relative to humanities majors. For example, the gap in earnings between technical majors like engineering and computer science and humanities grows by 5-6% between ages 23 and 50. Our estimates also indicate that more recent graduates in these fields earn a larger premium relative to humanities than earlier cohorts.
   </details>
 
-<div class="paragraph-divider"></div>
+---
 
 ## Work in Progress
 - Task-specific Employer Learnings <br>  
