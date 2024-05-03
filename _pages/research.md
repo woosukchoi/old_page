@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: false
 ---
 ## Working Paper
-- [__Risk Preference, Occupation Choice, and Earnings Dynamics__](/files/Paper_Woosuk_Risk_Preference.pdf) 
+- [__Risk Preference, Occupation Choice, and Earnings Dynamics__](/files/Paper_Woosuk_Risk_Preference.pdf) _(Job Market Paper)_
   <details open>
     <summary>Abstract</summary>
   
