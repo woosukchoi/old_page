@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Economics on the University of Rochester. My research 
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    ### Research Interests
+    ## Research Interests
     - Labor Economics
     - Personnel Economics
     - Applied Microeconometrics
