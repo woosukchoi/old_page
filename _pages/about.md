@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Woosuk Choi"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,11 +19,11 @@ I am a Ph.D. candidate in Economics on the University of Rochester. My research 
     </ul>
   </div>
   <div style="flex: 1;">
-    <h2>Reference</h2>
+    <h2></h2>
     <ul>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
+      <li></li>
+      <li></li>
+      <li></li>
     </ul>
   </div>
 </div>
