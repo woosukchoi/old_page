@@ -19,7 +19,6 @@ author_profile: false
   </details>
 
 ---
-
 ## Work in Progress
 - Task-specific Employer Learnings 
 
