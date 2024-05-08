@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in Economics on the University of Rochester. I will be on the job market in 2024-2025. My job market paper focuses on the role of risk preference in occupation choices and resulting earnings dynamics.
+I am a Ph.D. candidate in Economics on the University of Rochester. 
+I will be on the job market in 2024-2025. 
+My job market paper focuses on the role of risk preference in occupation choices and resulting earnings dynamics.
 
 <div style="display: flex;">
   <div style="flex: 1;">
