@@ -6,7 +6,7 @@ author_profile: false
 ---
 <style>
     .item {
-        margin-bottom: 20px; /* Adjust the value as needed */
+        margin-bottom: 40px;
     }
 </style>
 
