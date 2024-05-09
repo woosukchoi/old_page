@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in Economics on the University of Rochester. 
+I am a Ph.D. candidate in Economics at the University of Rochester. 
 
 I will be on the job market in 2024-2025. 
 
