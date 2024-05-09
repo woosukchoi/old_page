@@ -4,6 +4,12 @@ title: "Research"
 permalink: /research/
 author_profile: false
 ---
+<style>
+    .item {
+        margin-bottom: 20px; /* Adjust the value as needed */
+    }
+</style>
+
 ## Working Paper
 - [__Risk Preference, Occupation Choice, and Earnings Dynamics__](/files/Paper_Woosuk_Risk_Preference.pdf){:target="_blank" rel="noopener"} _(Job Market Paper)_
   <details open>
