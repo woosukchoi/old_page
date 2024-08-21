@@ -21,6 +21,6 @@ author_profile: false
 
 ---
 ## Work in Progress
-- Task Heterogeneity and Employer Learnings 
+- __Task Heterogeneity and Employer Learnings__ 
 
-- Labor Market Regulation and Technology Adoption: Evidence from Californian Nurse Staffing Regulation (with So Young Kim)
+- __Labor Market Regulation and Technology Adoption: Evidence from Californian Nurse Staffing Regulation__ (with So Young Kim)
