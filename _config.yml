@@ -10,7 +10,7 @@ kramdown:
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ph.D. Candidate"
+title                    : "Woosuk Choi"
 title_separator          : "-"
 name                     : &name "Woosuk Choi"
 description              : &description "personal description"
